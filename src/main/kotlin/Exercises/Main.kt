@@ -1,46 +1,52 @@
 package Exercises
+
+import java.text.spi.DateFormatProvider
+import java.time.LocalDate
+import java.time.LocalDateTime
+import java.util.Date
+
 fun main() {
     /*Application For Employment*/
-    var positionApplyingFor: String? = "Mobile App Developer"
-    var desiredSalary: Int = 50000
-    var dateAvailableForWork: String = "December 15, 2022"
+    var positionApplyingFor: String?
+    var desiredSalary: Int
+    var dateAvailableForWork: LocalDate
 
     /*Personal Information*/
 
-    var lastName: String = ("Ron")
-    var firstName: String = ("Miller")
-    var middleName: String = ("Ford")
-    var dateOfBirth: String = ("March 17, 1986")
-    var address: String = ("12 Beverly Hills")
-    var state: String = ("Montana")
+    var lastName: String
+    var firstName: String
+    var middleName: String
+    var dateOfBirth: Date
+    var address: String
+    var state: String
     var zip: Int = 9210
-    var homePhone: Long = 333276559
-    var cellPhone: Long = 9367319528
-    var emailAddress: String = ("ronmiller@gmail.com")
+    var homePhone: Int? = null
+    var cellPhone: Long? = null
+    var emailAddress: String? = null
     var socialSecurityNumber: Long = 3322086880
-    var nationality: String = ("null")
+    var nationality: String? = null
     var hasBeenConvicted: Boolean
     var willingToDrugTesting: Boolean
 
     /*Education*/
 
-    var schoolName1: String? = ("null")
-    var schoolLocation1: String? = ("null")
-    var tearsAtttended1: String? = ("null")
-    var degreeReceived1: String? = ("null")
-    var major1: String = ("null")
+    var schoolName1: String? = null
+    var schoolLocation1: String? = null
+    var yearsAtttended1: String? = null
+    var degreeReceived1: String? = null
+    var major1: String? = null
 
-    var schoolName2: String? = ("null")
-    var schoolLocation2: String? = ("null")
-    var tearsAtttended2: String? = ("null")
-    var degreeReceived2: String? = ("null")
-    var major2: String = ("null")
+    var schoolName2: String? = null
+    var schoolLocation2: String? = null
+    var yearsAtttended2: String? = null
+    var degreeReceived2: String? = null
+    var major2: String? = null
 
-    var schoolName3: String? = ("null")
-    var schoolLocation3: String? = ("null")
-    var yearsAtttended3: String? = ("null")
-    var degreeReceived3: String? = ("null")
-    var major3: String = ("null")
+    var schoolName3: String? = null
+    var schoolLocation3: String? = null
+    var yearsAtttended3: String? = null
+    var degreeReceived3: String? = null
+    var major3: String? = null
 
 
 }
