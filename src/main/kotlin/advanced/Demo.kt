@@ -1,1 +1,5 @@
 package advanced
+
+fun main() {
+
+}
