@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99122616-9ef6-44e9-ba4b-62e1a9ea82d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kodego_MD2P.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_a.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_b.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_c.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_d.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/ConditionalStatements.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/Demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/IfSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/IfSample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/LogicalOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/LoopsExercise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/MathematicalOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/UnaryOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/VariableDate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/VariableExercise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/Variables.kt" afterDir="false" />
-    </list>
+    <list default="true" id="99122616-9ef6-44e9-ba4b-62e1a9ea82d1" name="Changes" comment="added package exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +60,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665205491834</updated>
     </task>
+    <task id="LOCAL-00001" summary="added package exercise">
+      <created>1665662407528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665662407528</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added package exercise">
+      <created>1665662454801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665662454801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added package exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="added package exercise" />
   </component>
 </project>
