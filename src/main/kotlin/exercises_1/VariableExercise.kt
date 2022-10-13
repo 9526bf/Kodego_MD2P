@@ -1,4 +1,4 @@
-package advanced
+package exercises_1
 
 fun main() {
     var strName:String = "Romie Quisido"

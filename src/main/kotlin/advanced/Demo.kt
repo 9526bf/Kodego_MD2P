@@ -1,5 +1,0 @@
-package advanced
-
-fun main() {
-
-}

@@ -1,4 +1,4 @@
-package advanced
+package exercises_1
 
 import java.time.LocalDateTime
 import java.time.Month
