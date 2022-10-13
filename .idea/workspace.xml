@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99122616-9ef6-44e9-ba4b-62e1a9ea82d1" name="Changes" comment="added package exercise" />
+    <list default="true" id="99122616-9ef6-44e9-ba4b-62e1a9ea82d1" name="Changes" comment="added package exercise&#10;added activity_01_a.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/activity_01_b.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665670245939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added package exercise&#10;added activity_01_a.kt">
+      <created>1665671513927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671513927</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added package exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="added package exercise" />
+    <MESSAGE value="added package exercise&#10;added activity_01_a.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="added package exercise&#10;added activity_01_a.kt" />
   </component>
 </project>
