@@ -1,4 +1,4 @@
-package Exercises
+package exercises
 
 import java.text.DateFormat
 
@@ -11,7 +11,6 @@ fun main() {
 //    println("Enter control number: ")
 //    val studentControlNumber: Int = readln().toInt()
 
-//Student1
 
 
     val studentControlNumber: Int? = null
