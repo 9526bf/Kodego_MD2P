@@ -1,4 +1,4 @@
-package exercises_1
+package activities
 
 import mu.KotlinLogging
 
@@ -30,10 +30,6 @@ fun main(){
     logger.info("Divide the value by how many? = $userInput")
     var result: Int? = null
 
-
-//    var arrayOfNumbers = Array(5, {i ->i + +1})
-//    var arrayOfIntegers = arrayOf(null)
-//    var arrayOfIntegers2 = arrayOf(2, 4, 6, 8, 10, 0)
 
     if (amount1 != null) {
         logger.info {"Result : $result"}
