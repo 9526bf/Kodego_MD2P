@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99122616-9ef6-44e9-ba4b-62e1a9ea82d1" name="Changes" comment="added package exercise&#10;added activity_01_a.kt&#10;added activity_01_b.kt&#10;added activity_01_c.kt&#10;added activity_01_d.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoggingKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/DataStructure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/DataStructure2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/Datastructure3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_01_d/activity_01_d.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01_d/activity_01_d.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises_1/ConditionalStatements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/ConditionalStatements.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises_1/LoopsExamples.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/LoopsExamples.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercises_1/MathematicalOperations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercises_1/MathematicalOperations.kt" afterDir="false" />
@@ -67,7 +60,7 @@
       <recent name="C:\Users\Public\Documents\Kodego_MD2P\src\main\kotlin\advanced" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Activity_01_aKt">
+  <component name="RunManager" selected="Kotlin.Activity_01_dKt">
     <configuration name="Activity_01_aKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="activities_01.Activity_01_aKt" />
       <module name="Kodego_MD2P.main" />
@@ -91,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Activity_01_aKt" />
         <item itemvalue="Kotlin.Activity_01_dKt" />
+        <item itemvalue="Kotlin.Activity_01_aKt" />
         <item itemvalue="Kotlin.DataStructureKt" />
       </list>
     </recent_temporary>
@@ -211,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665929157183</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added package exercise&#10;added activity_01_a.kt&#10;added activity_01_b.kt&#10;added activity_01_c.kt&#10;added activity_01_d.kt">
+      <created>1665929703636</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665929703636</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
