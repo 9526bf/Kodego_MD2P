@@ -1,8 +1,6 @@
-package Exercises
+package activities_01
 
-import java.text.spi.DateFormatProvider
 import java.time.LocalDate
-import java.time.LocalDateTime
 import java.util.Date
 
 fun main() {

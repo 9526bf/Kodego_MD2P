@@ -13,49 +13,67 @@ fun main(){
 //    The total of the 5  input will be divided by the answer in the second question input.
 //    Note: Error checking must be done.*/
 
+    logger.info{"INPUT 5 MONETARY AMOUNT"}
 
-
-    logger.info("Please enter first amount:")
-    var amount1: Double? = readLine()?.toDouble()
+    logger.info{"Input first amount:"}
+    var amount1 = readln().toIntOrNull()
+        if (amount1 == null){
+            do{
+                logger.error { "Please input a valid integer:" }
+                amount1 = readln().toIntOrNull()
+            }while (amount1 == null)
+        }
     logger.info("Please enter second amount:")
-    var amount2: Double? = readLine()?.toDouble()
-    logger.info("Please enter third amount:")
-    var amount3: Double? = readLine()?.toDouble()
-    logger.info("Please enter fourth amount:")
-    var amount4: Double? = readLine()?.toDouble()
-    logger.info("Please enter fifth amount:")
-    var amount5: Double? = readLine()?.toDouble()
+    var amount2 = readln().toIntOrNull()
 
-    var userInput: Int? = readLine()?.toInt()
-    logger.info("Divide the value by how many? = $userInput")
-    var result: Int? = null
+        if (amount2 == null){
+            do{
+                logger.error{"Please input a valid integer:"}
+                amount2 = readln().toIntOrNull()
+            }while (amount2 == null)
+        }
 
-
-    if (amount1 != null) {
-        logger.info {"Result : $result"}
-
-        if (amount2 != null) {
-            logger.info {"Result : $result"}
-
-            if (amount3 != null) {
-                logger.info {"Result : $result"}
-
-                if (amount4 != null) {
-                    logger.info {"Result : $result"}
-
-                    if (amount5 != null) {
-                        logger.info {"Result : $result"}
-
-                        if (userInput != null) {
-                            logger.info {"Result : $result"}
-
-                                }
-
-                            }
-                        }
-                    }
-                }
-            }
+//    logger.info("Please enter first amount:")
+//    var amount1: Double? = readLine()?.toDouble()
+//    logger.info("Please enter second amount:")
+//    var amount2: Double? = readLine()?.toDouble()
+//    logger.info("Please enter third amount:")
+//    var amount3: Double? = readLine()?.toDouble()
+//    logger.info("Please enter fourth amount:")
+//    var amount4: Double? = readLine()?.toDouble()
+//    logger.info("Please enter fifth amount:")
+//    var amount5: Double? = readLine()?.toDouble()
+//
+//    var userInput: Int? = readLine()?.toInt()
+//    logger.info("Divide the value by how many? = $userInput")
+//    var result: Int? = null
+//
+//
+//    if (amount1 != null) {
+//        logger.info {"Result : $result"}
+//
+//        if (amount2 != null) {
+//            logger.info {"Result : $result"}
+//
+//            if (amount3 != null) {
+//                logger.info {"Result : $result"}
+//
+//                if (amount4 != null) {
+//                    logger.info {"Result : $result"}
+//
+//                    if (amount5 != null) {
+//                        logger.info {"Result : $result"}
+//
+//                        if (userInput != null) {
+//                            logger.info {"Result : $result"}
+//
+//                                }
+//
+//                            }
+//                        }
+//                    }
+//                }
+//            }
         }
 
 
