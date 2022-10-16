@@ -1,4 +1,4 @@
-package exercises
+package activity_01_a
 
 import java.text.DateFormat
 

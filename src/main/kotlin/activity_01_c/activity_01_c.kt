@@ -1,4 +1,4 @@
-package Exercises
+package activity_01_c
 
 import java.util.Date
 
