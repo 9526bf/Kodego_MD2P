@@ -13,7 +13,6 @@ Scope : String/Loops     */
 
     val inputString1: String? = "Kotlin Programming Language"
     val inputString2: String? = "Android Studio"
-    var characterInput: MutableList<Char> = mutableListOf<Char>('a', 'b', 'c')
 
     if (inputString1 != null) {
         for (inputString1 in inputString1)
